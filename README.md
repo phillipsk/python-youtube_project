@@ -1,5 +1,5 @@
 # YOUTUBE PROJECT
-Andrew Pacumio, Thanh Le, and Teddy Ta
+Team members: Andrew Pacumio, Thanh Le, and Teddy Ta
 
 **Purpose:**
 The original idea for this analysis was to answer a question that many people may ask: I have no idea but I want to create a Youtube
