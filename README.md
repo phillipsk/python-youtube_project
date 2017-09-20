@@ -1,4 +1,4 @@
-## YOUTUBE PROJECT
+# YOUTUBE PROJECT
 Andrew Pacumio, Thanh Le, and Teddy Ta
 
 **Purpose:**
@@ -13,3 +13,32 @@ To answer this question Youtube video popularity data for all regions was analyz
 
 **Link to Project Slideshow:**
 https://docs.google.com/presentation/d/1aRFqOO0gjFy3Dn_Ny-s43ZjES7Qfu7Ys7C82A5oyxzA/edit?usp=sharing
+
+## Python Code:
+
+*YouTube API Call*
+
+*Json*
+
+*Requests*
+
+*Datetime*
+
+*Pandas*
+
+*Random*
+
+*Numpy*
+
+*Citypy*
+
+*Time*
+
+*Math*
+
+*Matplotlib*
+
+*Seaborn*
+
+*ISOdate*
+
